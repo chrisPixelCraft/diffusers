@@ -176,3 +176,9 @@ tags
 
 # wandb
 wandb
+
+# examples
+examples/dreambooth/ziplora_dataset
+examples/dreambooth/lora-trained-xl-content_rank_4
+examples/dreambooth/lora-trained-xl-style_rank_4
+
